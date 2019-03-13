@@ -1,4 +1,4 @@
-# Clicky-Game-HW-
+# Clicky Game
 
 ## Mechanics of the game
 This is the Seth Macfarlane Clicky Memory Game! Goal is to reach the high score by clicking all the characters without repeating or
