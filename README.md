@@ -9,5 +9,7 @@ The Clicky Game application was created using React.js. User clicks an image, ar
 ## Technologies:
 * React.js
 
+![](cover.png)
+
 Play the game here: https://whispering-meadow-21898.herokuapp.com/
 
